@@ -1,0 +1,5 @@
+- Hello, I am **Xeos**!
+- I write libraries and software to create comfortable programming for everyone!
+- For questions, write here: [Email](mailto:xeosscript@gmail.com)
+ - Youtube: [Youtube](youtube.com/xeosscript)
+- Good luck with your projects!
